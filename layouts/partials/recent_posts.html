@@ -1,0 +1,54 @@
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Params.recent_posts.title | markdownify }}</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.recent_posts.subtitle | markdownify }}
+            </p>
+
+            <div class="row">
+                {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+                {{ range first 4 $posts.Pages }}
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                {{ if isset .Params "banner" }}
+                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
+                                {{ else }}
+                                <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                                {{ end }}
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i>leggi di più</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                            <p class="intro">{{ .Summary }}</p>
+                            <p class="read-more">
+                              <a href="{{ .Permalink }}" class="btn btn-template-main">vai alla pagina dedicata</a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- /.box-image-text -->
+
+                </div>
+                {{ end }}
+
+            </div>
+            <!-- /.row -->
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->

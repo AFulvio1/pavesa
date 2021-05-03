@@ -1,0 +1,95 @@
+baseURL = "https://www.pavesasrl.it/"
+languageCode = "it-it"
+title = "PA.VE.SA. srl"
+
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "azienda"
+    name = "Azienda"
+    url  = "/azienda/"
+    weight = 2
+
+[[menu.main]]
+    identifier="servizi"
+    name = "Servizi"
+    url  = "/servizi/"
+    weight = 3
+
+[[menu.main]]
+    identifier="faq"
+    name = "FAQ"
+    url  = "/faq/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "contatti"
+    name = "Contatti"
+    url  = "/contatti/"
+    weight = 5
+
+
+# Topbar
+
+[[menu.topbar]]
+    weight = 1
+    name = "Linkedin"
+    url = "https://www.linkedin.com/company/pavesa/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "https://www.facebook.com/Pavesa-Srl-1532544440319105"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Instagram"
+    url = "https://www.instagram.com/pavesasrl/?hl=it"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:info@pavesasrl.it"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+
+[params]
+
+    logo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1618934402/logo/logo.png"
+    logo_small = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1618934402/logo/logo.png"
+
+    copyright = "Copyright © 2012-2021. PA.VE.SA. s.r.l. - Tutti Diritti Riservati. | P. IVA: 01617240708 | CCIAA: 36097 "
+
+    date_format = "January 2, 2006"
+
+    googleMapsApiKey = "AIzaSyCZ4nb0g1P61rBOdU8EuC7eK51nd0rU9jM"
+    latitude = "41.91364514112533"
+    longitude = "14.913321708930866"
+
+
+[params.see_more]
+    title = "Più di 10 anni di esperienza"
+    link_url = "/contatti"
+    link_text = "contattaci"
+
+[params.providers]
+    title = " partners"
+
+[params.clients]
+    title = "alcuni dei nostri clienti"
+
+[params.recent_posts]
+    title = "alcuni dei nostri servizi"

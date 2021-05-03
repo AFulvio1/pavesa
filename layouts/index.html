@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "navbar.html" . }}
+
+        {{ partial "carousel.html" . }}
+
+        <br><br><br>
+        <div class="container">
+            <div class="row">
+              <div class="col-sm-12">
+                <img class="img-responsive" src="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619168287/logo/logo-pavesa_yqa7jj.png" alt="logo" >
+              </div>
+            </div>
+          </div>    
+        <br><br>
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "providers.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

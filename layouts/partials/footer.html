@@ -1,0 +1,14 @@
+<div id="copyright">
+    <div class="container">
+        <div class="pull-left">
+            {{ .Site.Params.copyright | safeHTML }}
+        </div>
+        <div class="pull-right">
+            <div class="social">
+                {{ range .Site.Menus.topbar.ByWeight }}
+                <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
