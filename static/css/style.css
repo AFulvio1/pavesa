@@ -1167,7 +1167,7 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 20px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
@@ -2610,7 +2610,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #fecd39;
 }
 #copyright {
-  background: #333;
+  background: #4a4b4b;
   color: #ccc;
   padding: 50px 0;
   font-size: 12px;
@@ -3580,4 +3580,8 @@ a.list-group-item.active > .badge,
 #mail-phone{
   font-size: 18px;
   font-weight: 300;
+}
+
+#loghi{
+  padding-left: 10%;
 }

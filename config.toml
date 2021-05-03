@@ -1,6 +1,7 @@
 baseURL = "https://www.pavesasrl.it/"
 languageCode = "it-it"
 title = "PA.VE.SA. srl"
+pluralizelisttitles = false
 
 paginate = 10
 
