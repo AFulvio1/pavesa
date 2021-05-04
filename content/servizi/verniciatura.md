@@ -1,6 +1,6 @@
 +++
 title = "Verniciatura"
-description = "Descrizione per Google"
+description = "Verniciatura a..."
 banner = "img/banners/verniciatura1.jpeg"
 weight = 3
 

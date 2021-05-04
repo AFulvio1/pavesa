@@ -1,6 +1,6 @@
 +++
 title = "Pavimenti"
-description = "Descrizione per Google"
+description = "Pavimenti in Ucrete, pavimenti poliuretanici autolivellanti, pavimenti multistrato in resina. La soluzione ideale per ogni tipo di esigenza."
 banner = "img/banners/pavimento1.jpeg"
 weight = 2
 

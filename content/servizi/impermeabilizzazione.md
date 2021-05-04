@@ -1,6 +1,6 @@
 +++
 title = "Impermeabilizzazione con Poliurea"
-description = "Descrizione per Google"
+description = "Impermeabilizzazione di tetti, balconi, terrazzi. La poliurea è l'ideale per..."
 banner = "img/banners/impermeabilizzazione1.jpeg"
 weight = 1
 

@@ -1,6 +1,6 @@
 +++
 title = "Sabbiatura"
-description = "Descrizione per Google"
+description = "Sabbiatura a polvere per la protezione di superfici metalliche e muri, l'ideale anche per pulire la superfice prima della verniciatura."
 banner = "img/banners/sabbiatura1.png"
 weight = 4
 
