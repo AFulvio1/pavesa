@@ -1,7 +1,7 @@
 +++
 title = "Impermeabilizzazione con Poliurea"
-description = "Impermeabilizzazione di tetti, balconi, terrazzi. La poliurea è l'ideale per..."
-banner = "img/banners/impermeabilizzazione1.jpeg"
+description = "L'ideale per l'impermeabilizzazione di tetti, terrazzi, parcheggi, piscine, vasche di depurazione e acqua potabile."
+banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317404/banner/impermeabilizzazione_b97kho.jpg"
 weight = 1
 
 summary = "La nostra ditta propone tecnologie innovative attraverso prodotti ad alta resistenza e duraturi nel tempo, nello specifico parliamo di [Poliurea](https://it.wikipedia.org/wiki/Poliurea) e MEMBRANA IMPERMEABILIZZANTE POLIURETANICA ad alte prestazioni. La Poliurea presenta una tecnologia basata sulla chimica di reazione di sistemi bicomponenti applicati a spruzzo ed utilizzati nel settore dei rivestimenti ed impermeabilizzazioni."
@@ -11,7 +11,7 @@ imgPrima = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,
 imgDurante = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg"
 imgDopo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg"
 
-wtitle2 = "ANCONA"
+wtitle2 = "STADIO DEL CONERO, ANCONA"
 imgPrima2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg"
 imgDurante2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg"
 imgDopo2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg"

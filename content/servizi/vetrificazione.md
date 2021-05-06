@@ -1,7 +1,13 @@
 +++
 title = "Vetrificazione"
-description = "Descrizione per Google"
+description = "Per la protezione di vasi vinari, cisterne di acqua potabile e in generale vasche industriali ad uso alimentare."
+banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317051/banner/vetrificazione_yezoo5.jpg"
 weight = 6
+
+wtitle = "VETRIFICAZIONE VASI VINARI, CANTINA SANGRO, FOSSACESIA (CH)"
+imgPrima = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/durante.jpg"
+imgDurante = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620936/lavori/verniciatura/prima.jpg"
+imgDopo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/dopo.jpg"
 +++
 
 Un altro tipo di verniciatura, in particolare riguardante le superfici interne di vasche in c.a. e silos in ferro che vengono a contatto con alimenti e acqua potabile, è la vetrificazione. 

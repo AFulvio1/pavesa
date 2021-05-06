@@ -27,17 +27,17 @@ paginate = 10
     url  = "/servizi/"
     weight = 3
 
-[[menu.main]]
-    identifier="faq"
-    name = "FAQ"
-    url  = "/faq/"
-    weight = 4
+# [[menu.main]]
+  #  identifier="faq"
+   # name = "FAQ"
+    # url  = "/faq/"
+    # weight = 4
 
 [[menu.main]]
     identifier = "contatti"
     name = "Contatti"
     url  = "/contatti/"
-    weight = 5
+    weight = 4
 
 
 # Topbar

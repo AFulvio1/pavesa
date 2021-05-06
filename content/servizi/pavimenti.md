@@ -1,7 +1,7 @@
 +++
 title = "Pavimenti"
-description = "Pavimenti in Ucrete, pavimenti poliuretanici autolivellanti, pavimenti multistrato in resina. La soluzione ideale per ogni tipo di esigenza."
-banner = "img/banners/pavimento1.jpeg"
+description = "Pavimenti industriali, pavimenti in poliuretano/cemento, pavimenti in resina. La soluzione ideale per ogni tipo di esigenza."
+banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317050/banner/pavimento_fdqqil.jpg"
 weight = 2
 
 summary = "Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente. Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni. In particolare possiamo distinguere quattro tipi di pavimentazioni: pavimentazione con Ucrete; pavimento poliuretanico autolivellante; pavimento multistrato; pavimentazione per balconi e terrazzi;"
@@ -11,7 +11,7 @@ imgPrima = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,
 imgDurante = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg"
 imgDopo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg"
 
-wtitle2 = "PAVIMENTO POLIURETANICO, SAN GIULIANO DI PUGLIA"
+wtitle2 = "PAVIMENTO POLIURETANICO, CENTRO DI RIABILITAZIONE PADRE PIO ONLUS, SAN GIOVANNI ROTONDO"
 imgPrima2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg"
 imgDurante2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg"
 imgDopo2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg"
@@ -57,7 +57,7 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 
 ---
 
-## PAVIMENTO PULIURETANICO AUTOLIVELLANTE
+## PAVIMENTO POLIURETANICO AUTOLIVELLANTE
 Ѐ solitamente impiegato negli interventi in industrie chimiche e farmaceutiche (aree soggette ad elevati standard igienici), showroom, negozi, aree di stoccaggio, aree produttive. 
 
 Certiticato AgBB per le basse emissione sugli ambienti di lavori indoor, è resistente agli urti, all’usura e a traffici frequenti.

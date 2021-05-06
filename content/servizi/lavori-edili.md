@@ -1,6 +1,7 @@
 +++
 title = "Lavori edili"
-description = "Descrizione per Google"
+description = "Tinteggiatura muri, rasatura pareti e piccoli lavori in muratura."
+banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317051/banner/lavori-edili_yqtzag.jpg"
 weight = 7
 +++
 
