@@ -1,7 +1,7 @@
 +++
 title = "Sabbiatura"
 description = "Sabbiatura a polvere per la pulizia di superfici metalliche e mattoni faccia vista."
-banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317052/banner/sabbiatura_gwont0.png"
+banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317052/banner/sabbiatura_gwont0.png"
 weight = 4
 
 summary = "La [Sabbiatura](https://it.wikipedia.org/wiki/Sabbiatura_(tecnologia)), è un’operazione che permette di ripulire accuratamente una superficie da incrostazioni e residui o di ottenere una finitura che assicuri un buon ancoraggio per trattamenti successivi. La sabbiatura viene eseguita da apposite macchine sabbiatrici sfruttando un getto, ad alta pressione, di sabbia oppure di sabbia e acqua, o di graniglia metallica. "

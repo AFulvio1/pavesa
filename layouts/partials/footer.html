@@ -1,13 +1,13 @@
 <div id="copyright">
     <div class="container text-center">
         <div class="col-sm-3">
-            <img src="https://res.cloudinary.com/afulvio/image/upload/v1620065975/logo/logo-soa_tcurwh.png" alt="soa" id="loghi">
-            <img src="https://res.cloudinary.com/afulvio/image/upload/v1620065975/logo/logo-csq_s1rgfn.png" alt="iso" id="loghi">
+            <img src="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620065975/logo/logo-soa_tcurwh.png" alt="soa" id="loghi">
+            <img src="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620065975/logo/logo-csq_s1rgfn.png" alt="iso" id="loghi">
         </div>
         <div class="col-sm-6" style="width: auto; height: 70px; margin-top: 20px;">
             {{ .Site.Params.copyright | safeHTML }}
         </div>
-        <div class="col-sm-3" style="width: 280px; height: 70px; margin-top: 20px;">
+        <div class="col-sm-3" style="width: auto; height: 70px; margin-top: 20px;">
             <div class="social">
                 {{ range .Site.Menus.topbar.ByWeight }}
                 <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>

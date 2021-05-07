@@ -1,7 +1,7 @@
 +++
 title = "Pavimenti"
 description = "Pavimenti industriali, pavimenti in poliuretano/cemento, pavimenti in resina. La soluzione ideale per ogni tipo di esigenza."
-banner = "https://res.cloudinary.com/afulvio/image/upload/v1620317050/banner/pavimento_fdqqil.jpg"
+banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317050/banner/pavimento_fdqqil.jpg"
 weight = 2
 
 summary = "Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente. Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni. In particolare possiamo distinguere quattro tipi di pavimentazioni: pavimentazione con Ucrete; pavimento poliuretanico autolivellante; pavimento multistrato; pavimentazione per balconi e terrazzi;"
