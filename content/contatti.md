@@ -1,7 +1,8 @@
 +++
 title = "Contatti"
 id = "contatti"
-description = "Descrizione per Google"
+description = "Chiamaci/Scrivici per qualsiasi informazione o per un preventivo gratuito!"
+keywords = ["preventivo", "contatti", "telefono", "mail", "info"]
 +++
 
 # Chiamaci/Scrivici per un preventivo gratuito

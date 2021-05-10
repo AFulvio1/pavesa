@@ -1,6 +1,7 @@
 +++
 title = "Verniciatura"
 description = "Verniciatura industriale su carpenteria metallica, silos, cantieri navali."
+keywords = ["verniciatura", "verniciatura industriale", "verniciatura carpenteria", "carpenteria", "silos", "cantieri navali"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317404/banner/verniciatura_odheuc.jpg"
 weight = 3
 

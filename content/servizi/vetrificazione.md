@@ -1,6 +1,7 @@
 +++
 title = "Vetrificazione"
 description = "Per la protezione di vasi vinari, cisterne di acqua potabile e in generale vasche industriali ad uso alimentare."
+keywords = ["vetrificazione", "vasi vinari", "cisterne", "vasche industriali"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317051/banner/vetrificazione_yezoo5.jpg"
 weight = 6
 

@@ -1,6 +1,7 @@
 +++
 title = "Lavori edili"
 description = "Tinteggiatura muri, rasatura pareti e piccoli lavori in muratura."
+keywords = ["rasatura", "pareti", "muratura", "muri", "tinteggiatura"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317051/banner/lavori-edili_yqtzag.jpg"
 weight = 7
 +++

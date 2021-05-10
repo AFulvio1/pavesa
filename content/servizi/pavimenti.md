@@ -1,6 +1,7 @@
 +++
 title = "Pavimenti"
 description = "Pavimenti industriali, pavimenti in poliuretano/cemento, pavimenti in resina. La soluzione ideale per ogni tipo di esigenza."
+keywords = ["pavimenti", "pavimenti industriali", "pavimenti in resina", "pavimento", "poliuretano"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317050/banner/pavimento_fdqqil.jpg"
 weight = 2
 
