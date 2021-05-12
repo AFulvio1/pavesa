@@ -1,6 +1,6 @@
 +++
 title = "Azienda"
-description = "Specializzata nella vetrificazione di vasi vinarie, cisterne per uso alimentare e nelle verniciature industriali anticorrosione su carpenteria metallica, la PA.VE.SA. ha allargato col tempo il ventaglio della proposta dei servizi offerti, includendo anche l'impermeabilizzazione con poliurea, intonacature, pitturazioni, civili e industriali."
+description = "La nostra azienda è specializzata nella vetrificazione di vasi vinarie, cisterne per uso alimentare e nelle verniciature industriali anticorrosione su carpenteria metallica, la PA.VE.SA. ha allargato col tempo il ventaglio della proposta dei servizi offerti, includendo anche l'impermeabilizzazione con poliurea, intonacature, pitturazioni, civili e industriali."
 keywords = ["chi siamo?", "azienda", "ditta", "presentazione"]
 +++
 

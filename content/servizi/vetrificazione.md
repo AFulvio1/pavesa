@@ -1,6 +1,6 @@
 +++
 title = "Vetrificazione"
-description = "Per la protezione di vasi vinari, cisterne di acqua potabile e in generale vasche industriali ad uso alimentare."
+description = "Vetrificazione per la protezione di vasi vinari, cisterne di acqua potabile e in generale vasche industriali ad uso alimentare. Un altro tipo di verniciatura, in particolare riguardante le superfici interne di vasche in c.a. e silos in ferro che vengono a contatto con alimenti e acqua potabile, è la vetrificazione."
 keywords = ["vetrificazione", "vasi vinari", "cisterne", "vasche industriali"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317051/banner/vetrificazione_yezoo5.jpg"
 weight = 6

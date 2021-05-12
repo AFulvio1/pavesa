@@ -1,6 +1,6 @@
 +++
 title = "Sabbiatura"
-description = "Sabbiatura a polvere per la pulizia di superfici metalliche e mattoni faccia vista."
+description = "Sabbiatura a polvere per la pulizia di superfici metalliche e mattoni faccia vista. La sabbiatura viene eseguita da apposite macchine sabbiatrici sfruttando un getto, ad alta pressione, di sabbia oppure di sabbia e acqua, o di graniglia metallica."
 keywords = ["sabbiatura", "pulizia delle superfici", "pulizia mattoni", "sabbiatura a polvere", "pulizia"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317052/banner/sabbiatura_gwont0.png"
 weight = 4

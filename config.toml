@@ -5,6 +5,18 @@ pluralizelisttitles = false
 
 paginate = 10
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
 [menu]
 
 # Main menu
@@ -69,6 +81,8 @@ paginate = 10
 
 [params]
 
+    keywords = true
+    Description = "Pavimenti, Verniciatura, Sabbiatura e Impermeabilizzazione"
     defaultDescription = "Pavimenti, Verniciatura, Sabbiatura e Impermeabilizzazione"
 
     logo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1618934402/logo/logo.png"

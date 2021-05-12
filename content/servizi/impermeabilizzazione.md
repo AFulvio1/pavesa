@@ -1,6 +1,6 @@
 +++
 title = "Impermeabilizzazione con Poliurea"
-description = "L'ideale per l'impermeabilizzazione di tetti, terrazzi, parcheggi, piscine, vasche di depurazione e acqua potabile."
+description = "Impermeabilizzazione di tetti, terrazzi, parcheggi, piscine, vasche di depurazione e acqua potabile. La nostra ditta propone tecnologie innovative attraverso prodotti ad alta resistenza e duraturi nel tempo, nello specifico parliamo di Poliurea e membrana impermeabilizzante poliuretanica ad alte prestazioni. "
 keywords = ["impermeabilizzazione", "poliurea", "impermeabilizzazione con poliurea", "tetti", "balconi", "terrazzi", "parcheggi", "piscine"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317404/banner/impermeabilizzazione_b97kho.jpg"
 weight = 1

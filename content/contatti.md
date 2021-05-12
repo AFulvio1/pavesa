@@ -1,11 +1,11 @@
 +++
 title = "Contatti"
 id = "contatti"
-description = "Chiamaci/Scrivici per qualsiasi informazione o per un preventivo gratuito!"
+description = "Contattaci: chiamaci/Scrivici per qualsiasi informazione o per un preventivo gratuito!"
 keywords = ["preventivo", "contatti", "telefono", "mail", "info"]
 +++
 
-# Chiamaci/Scrivici per un preventivo gratuito
+# Chiamaci/Scrivici per qualsiasi informazione o per un preventivo gratuito
 
 
 ## <div class="heading"> <h3>Mail</h3> </div>
