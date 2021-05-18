@@ -82,7 +82,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
 
     keywords = true
-    Description = "Pavimenti, Verniciatura, Sabbiatura e Impermeabilizzazione"
     defaultDescription = "Pavimenti, Verniciatura, Sabbiatura e Impermeabilizzazione"
 
     logo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1618934402/logo/logo.png"

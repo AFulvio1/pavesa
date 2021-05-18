@@ -13,5 +13,5 @@ keywords = ["preventivo", "contatti", "telefono", "mail", "info"]
 
 
 ## Numeri
-- Ufficio: [0875 681101](telto:0875681101) / [3277425486](telto:3277425486)
-- Referenti: [3477333796](telto:3477333796) / [3477333796](telto:3477333796)
+- Ufficio: [0875 681101](tel:0875681101) / [3277425486](tel:3277425486)
+- Referenti: [3477333796](tel:3477333796) / [3477333796](tel:3477333796)

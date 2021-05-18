@@ -3581,3 +3581,8 @@ a.list-group-item.active > .badge,
   font-size: 18px;
   font-weight: 300;
 }
+
+
+.personal > h1{
+  color: white;
+}
