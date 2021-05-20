@@ -3,6 +3,7 @@ title = "Verniciatura"
 description = "Verniciatura industriale su carpenteria metallica, silos, cantieri navali. La verniciatura è un processo mediante il quale viene depositato uno strato di prodotto verniciante che ha lo scopo di proteggere un manufatto dalla corrosione, funge inoltre da decoro del materiale stesso."
 keywords = ["verniciatura", "verniciatura industriale", "verniciatura carpenteria", "carpenteria", "silos", "cantieri navali"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317404/banner/verniciatura_odheuc.jpg"
+alt = "img-verniciatura"
 weight = 3
 
 summary = "A seguito dei processi di pulizia delle superfici tramite sabbiatura o lavaggio si procede con la protezione del supporto ripulito tramite il processo di verniciatura. La verniciatura è un processo mediante il quale viene depositato uno strato di prodotto verniciante che ha lo scopo di proteggere un manufatto dalla corrosione, funge inoltre da decoro del materiale stesso. I prodotti vernicianti vengono applicati su manufatti metallici di carpenteria varia."
