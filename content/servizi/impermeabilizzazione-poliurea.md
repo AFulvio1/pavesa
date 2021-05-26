@@ -23,7 +23,7 @@ imgDurante2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_
 imgDopo2 = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg"
 +++
 
-La nostra ditta propone tecnologie innovative attraverso prodotti ad alta resistenza e duraturi nel tempo, nello specifico parliamo di [Poliurea](https://it.wikipedia.org/wiki/Poliurea) e MEMBRANA IMPERMEABILIZZANTE POLIURETANICA ad alte prestazioni. 
+La nostra ditta propone tecnologie innovative che vanno a sostituire la comune guaina bituminosa ,attraverso prodotti ad alta resistenza e duraturi nel tempo, nello specifico parliamo di [Poliurea](https://it.wikipedia.org/wiki/Poliurea) e MEMBRANA IMPERMEABILIZZANTE POLIURETANICA ad alte prestazioni.
 
 La POLIUREA presenta una tecnologia basata sulla chimica di reazione di sistemi bicomponenti applicati a spruzzo ed utilizzati nel settore dei rivestimenti ed impermeabilizzazioni.
 
