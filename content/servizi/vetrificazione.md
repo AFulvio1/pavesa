@@ -21,9 +21,9 @@ Un altro tipo di verniciatura, in particolare riguardante le superfici interne d
 
 > CERTIFICATO PER IL CONTATTO ALIMENTARE SECONDO REGOLAMENTO UE N. 10/2011 DELLA COMMISSIONE DEL 14/1/2011
 
-Uno dei principali partner della PA.VE.SA. srl è la MASTER BUILDER SPA, azienda mondiale che offre soluzioni e prodotti in grado di aumentare l’efficienza delle lavorazioni, la durabilità dei manufatti e il risparmio energetico degli edifici.
+Uno dei principali partner della PA.VE.SA. srl è la MASTER BUILDER SOLUTIONS ITALIA SPA, azienda mondiale che offre soluzioni e prodotti in grado di aumentare l’efficienza delle lavorazioni, la durabilità dei manufatti e il risparmio energetico degli edifici.
 
-La MASTER BUILDER SPA è l’azienda fornitrice del prodotto MASTERSEAL M 391 un rivestimento epossidico bicomponente, privo di ammine aromatiche, ftalati e alcool benzilico, a finitura lucida e certificato per il contatto con alimenti secondo Regolamento UE n. 10/2011 della Commissione del 14/1/2011.
+La MASTER BUILDER SOLUTIONS ITALIA SPA è l’azienda fornitrice del prodotto MASTERSEAL M 391 un rivestimento epossidico bicomponente, privo di ammine aromatiche, ftalati e alcool benzilico, a finitura lucida e certificato per il contatto con alimenti secondo Regolamento UE n. 10/2011 della Commissione del 14/1/2011.
 
 MASTERSEAL M 391 è indicato principalmente per la vetrificazione dei vasi vinari, delle cisterne per il contenimento dell’olio, acqua potabile e tutti gli alimenti previsti dal Regolamento UE n. 10/2011 della Commissione 14/1/2011.
 
