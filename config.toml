@@ -81,6 +81,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 
+    enableRobotsTXT = true
     keywords = true
     defaultDescription = "Pavimenti, Verniciatura, Sabbiatura e Impermeabilizzazione"
 

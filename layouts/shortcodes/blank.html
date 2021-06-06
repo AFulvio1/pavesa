@@ -1,0 +1,5 @@
+<!-- {{/*
+Usage: {{% url "TITLE" "URL" %}}
+URL example: "blog/aaaa/mm/dd/post"
+*/}}-->
+<a target="_blank" href={{ .Get 1 | absLangURL }}>{{ .Get 0 | markdownify }}</a>

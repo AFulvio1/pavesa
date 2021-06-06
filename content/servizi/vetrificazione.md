@@ -5,19 +5,9 @@ keywords = ["vetrificazione", "vasi vinari", "cisterne", "vasche industriali"]
 banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317051/banner/vetrificazione_yezoo5.jpg"
 alt = "img-vetrificazione"
 weight = 6
-
-altPrima = "vetrificazione-prima"
-altDurante = "vetrificazione-durante"
-altDopo = "vetrificazione-dopo"
-
-wtitle = "VETRIFICAZIONE VASI VINARI, CANTINA SANGRO, FOSSACESIA (CH)"
-imgPrima = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/durante.jpg"
-imgDurante = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620936/lavori/verniciatura/prima.jpg"
-imgDopo = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/dopo.jpg"
 +++
 
 Un altro tipo di verniciatura, in particolare riguardante le superfici interne di vasche in c.a. e silos in ferro che vengono a contatto con alimenti e acqua potabile, è la vetrificazione. 
-
 
 > CERTIFICATO PER IL CONTATTO ALIMENTARE SECONDO REGOLAMENTO UE N. 10/2011 DELLA COMMISSIONE DEL 14/1/2011
 
@@ -36,10 +26,7 @@ MASTERSEAL M 391 è disponibile nella versione:
 - CELESTE e BIANCO specifici per il contatto con acqua potabile, olio, cereali, ed altre sostanze alimentari.
 
 
-
 MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
-
-
 
 - privo di ammine aromatiche;
 
@@ -59,4 +46,11 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 - risponde ai principi definiti nella UNI EN 1504/2 (“Sistemi di protezione della superficie di calcestruzzo”) e ai relativi limiti di accettazione. 
 
+---
+
+### VETRIFICAZIONE VASI VINARI, CANTINA SANGRO, FOSSACESIA (CH)
+
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altDurante="vetrificazione-durante" altDopo="vetrificazione-dopo" >}}
+
+---
 ---
