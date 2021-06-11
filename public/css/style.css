@@ -48,6 +48,7 @@
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
+
 /* general styles */
 a,
 button {
@@ -512,6 +513,7 @@ ul.list-style-none {
   margin-bottom: 20px;
   font-size: 13px;
 }
+
 /* buttons  */
 .btn {
   font-weight: 700;
@@ -1061,7 +1063,7 @@ fieldset[disabled] .btn-template-primary.active {
   top: 0;
   float: right;
 }
-/* ribbons for product sales etc. */
+
 .ribbon {
   position: absolute;
   top: 50px;
@@ -2656,7 +2658,7 @@ fieldset[disabled] .btn-template-primary.active {
     display: none;
   }
 }
-/* Original Boostrap template overwrite */
+
 /* breadcrumbs */
 .breadcrumb {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -2664,6 +2666,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: none;
   letter-spacing: 0.08em;
 }
+
 /* nav */
 .nav > li > a {
   padding: 10px 15px;
@@ -3158,6 +3161,7 @@ fieldset[disabled] .navbar-default .btn-link:hover,
 fieldset[disabled] .navbar-default .btn-link:focus {
   color: #cccccc;
 }
+
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -3209,6 +3213,7 @@ hr {
     text-align: center;
   }
 }
+
 /* dropdowns */
 .dropdown-menu {
   z-index: 1000;
@@ -3236,6 +3241,7 @@ hr {
   color: #4a4b4b;
   white-space: nowrap;
 }
+
 /* labels */
 .label {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -3261,6 +3267,7 @@ label {
 .form-group {
   margin-bottom: 20px;
 }
+
 /* pager*/
 .pager {
   margin: 20px 0;
@@ -3293,6 +3300,7 @@ label {
   background-color: #ffffff;
   border-color: #ddd;
 }
+
 /* pagination */
 .pagination {
   margin: 20px 0;
@@ -3337,6 +3345,7 @@ label {
   background-color: #ffffff;
   border-color: #dddddd;
 }
+
 /* responsive utilities */
 @media (max-width: 767px) {
   .text-center-xs {
@@ -3358,6 +3367,7 @@ label {
     margin-right: auto;
   }
 }
+
 /* type */
 h1,
 h2,
@@ -3535,6 +3545,7 @@ a.list-group-item.active > .badge,
   background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
+
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
