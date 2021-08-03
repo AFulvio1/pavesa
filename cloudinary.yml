@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: afulvio
+  api_key: '551824425764188'
+  api_secret: SovgCWZMKnM0ObDYVzdgFXJTLQA
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: afulvio
+  api_key: '551824425764188'
+  api_secret: SovgCWZMKnM0ObDYVzdgFXJTLQA
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: afulvio
+  api_key: '551824425764188'
+  api_secret: SovgCWZMKnM0ObDYVzdgFXJTLQA
+  enhance_image_tag: true
+  static_file_support: false

@@ -9,7 +9,7 @@ weight = 4
 summary = "La [Sabbiatura](https://it.wikipedia.org/wiki/Sabbiatura_(tecnologia)), è un’operazione che permette di ripulire accuratamente una superficie da incrostazioni e residui o di ottenere una finitura che assicuri un buon ancoraggio per trattamenti successivi. La sabbiatura viene eseguita da apposite macchine sabbiatrici sfruttando un getto, ad alta pressione, di sabbia oppure di sabbia e acqua, o di graniglia metallica. "
 +++
 
-La [Sabbiatura](https://it.wikipedia.org/wiki/Sabbiatura_(tecnologia)), è un’operazione che permette di ripulire accuratamente una superficie da incrostazioni e residui o di ottenere una finitura che assicuri un buon ancoraggio per trattamenti successivi. 
+La {{< blank "Sabbiatura" "https://it.wikipedia.org/wiki/Sabbiatura_(tecnologia)" >}}, è un’operazione che permette di ripulire accuratamente una superficie da incrostazioni e residui o di ottenere una finitura che assicuri un buon ancoraggio per trattamenti successivi. 
 
 La sabbiatura viene eseguita da apposite macchine sabbiatrici sfruttando un getto, ad alta pressione, di sabbia oppure di sabbia e acqua, o di graniglia metallica. 
 
@@ -44,6 +44,24 @@ La pulizia delle superfici può essere eseguita, sempre in base al tipo di suppo
 - Idrosabbiatura, picchettaggio, raschiatura e spazzolatura con utensili pneumatici
 
 - Idrolavaggio ad alta pressione a 500 Bar
+
+---
+---
+
+
+### SABBIATURA ESTERNA DI UN SERBATOIO D'ACCIAIO - SICILIANI - PALO DEL COLLE (BA)
+
+{{< ytvideos "https://www.youtube.com/watch?v=l7dqeNT2jQc" >}}
+
+---
+
+
+---
+
+### SABBIATURA E VERNICIATURA ESTERNA DI UN SERBATOIO IN FERRO - CANTINA DI CASALBORDINO (CH)
+
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1627899569/lavori/sabbiatura/sabbiatura-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1627899519/lavori/sabbiatura/sabbiatura-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1627899549/lavori/sabbiatura/sabbiatura-dopo.jpg" altPrima="sabbiatura-prima" altDurante="sabbiatura-durante" altDopo="sabbiatura-dopo" >}}
+
 
 ---
 ---

@@ -49,19 +49,19 @@ La MEMBRANA IMPERMEABILIZZANTE POLIURETANICA è una membrana di tipo continuo, a
 
 ---
 
-## TRENITALIA, FIRENZE
+## TRENITALIA - FIRENZE
 
 {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 
 ---
 
-## STADIO DEL CONERO, ANCONA
+## STADIO DEL CONERO - ANCONA
 
 {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 
 ---
 
-## PISCINA HOTEL DON JUAN, GIULIANOVA
+## PISCINA HOTEL DON JUAN - GIULIANOVA
 
 {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 

@@ -10,5 +10,12 @@
   "scripts": {
     "lint": "eslint .",
     "install_hugo": "brew update && brew install hugo"
+  },
+  "dependencies": {
+    "blueimp-file-upload": "^10.31.0",
+    "cloudinary": "^1.26.3",
+    "cloudinary-jquery-file-upload": "^2.11.4",
+    "jquery": "^3.6.0",
+    "lightbox2": "^2.11.3"
   }
 }

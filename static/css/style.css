@@ -3593,7 +3593,73 @@ a.list-group-item.active > .badge,
   font-weight: 300;
 }
 
-
 .personal > h1{
   color: white;
 }
+
+/* YT - Video */
+.videoWrapper {
+	position:relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+/* YT - Video 
+.youtube-container { 
+  display: block; 
+  margin: 20px auto; 
+  width: 100%; 
+  max-width: 600px; 
+  }
+  
+  .youtube-player { 
+  display: block; 
+  width: 100%; /* assuming that the video has a 16:9 ratio  
+  padding-bottom: 56.25%; 
+  overflow: hidden; 
+  position: relative; 
+  width: 100%; 
+  height: 100%; 
+  cursor: hand; 
+  cursor: pointer; 
+  display: block; 
+  }
+  
+  img.youtube-thumb { 
+  bottom: 0; 
+  display: block; 
+  left: 0; 
+  margin: auto; 
+  max-width: 100%; 
+  width: 100%; 
+  position: absolute; 
+  right: 0; 
+  top: 0; 
+  height: auto 
+  }
+  
+  div.play-button { 
+  height: 72px; 
+  width: 72px; 
+  left: 50%; 
+  top: 50%; 
+  margin-left: -36px; 
+  margin-top: -36px; 
+  position: absolute; 
+  background: url("https://i.imgur.com/TxzC70f.png") no-repeat; 
+  }
+  
+  #youtube-iframe { 
+  width: 100%; 
+  height: 100%; 
+  position: absolute; 
+  top: 0px; 
+  left: 0px; 
+  } */
+  

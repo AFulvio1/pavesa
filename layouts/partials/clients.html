@@ -15,10 +15,10 @@
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .alt }}" class="img-responsive" />
+                            <img src="{{ .image }}" alt="{{ .alt }}" class="img-responsive lazyload" />
                           </a>
                         {{ else }}
-                          <img src="{{ .image }}" alt="{{ .alt }}" class="img-responsive" />
+                          <img src="{{ .image }}" alt="{{ .alt }}" class="img-responsive lazyload" />
                         {{ end }}
                     </li>
                     {{ end }}

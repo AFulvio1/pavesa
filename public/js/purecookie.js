@@ -63,7 +63,7 @@ function cookieConsent() {
 }
 
 function purecookieDismiss() {
-  setCookie('purecookieDismiss','1',7);
+  setCookie('purecookieDismiss','1',180);
   pureFadeOut("cookieConsentContainer");
 }
 

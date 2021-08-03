@@ -48,7 +48,7 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 ---
 
-### VETRIFICAZIONE VASI VINARI, CANTINA SANGRO, FOSSACESIA (CH)
+### VETRIFICAZIONE VASI VINARI - CANTINA SANGRO - FOSSACESIA (CH)
 
 {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altDurante="vetrificazione-durante" altDopo="vetrificazione-dopo" >}}
 
