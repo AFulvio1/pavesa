@@ -18,63 +18,8 @@ $(function () {
   utils()
   animations()
   counters()
-  demo()
-  contactFormAjax()
 })
 
-// Ajax contact
-function contactFormAjax () {
-  var form = $('.contact-form-ajax')
-  if (typeof form === 'undefined') return false
-  form.submit(function () {
-    $this = $(this)
-    $.post($(this).attr('action'),
-      $this.serialize(),
-      function () {
-        $this[0].reset() // clear form
-
-        $('#contact-message')
-          .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
-          .fadeIn()
-      }
-      , 'json')
-    return false
-  })
-}
-
-/* for demo purpose only - can be deleted */
-function demo () {
-  if ($.cookie('themeCSSpath')) {
-    $('link#theme-stylesheet').attr('href', $.cookie('themeCSSpath'))
-  }
-
-  $('#colour').change(function () {
-    if ($(this).val() !== '') {
-      var themeCSSpath = 'css/style.' + $(this).val() + '.css'
-
-      $('link#theme-stylesheet').attr('href', themeCSSpath)
-
-      $.cookie('themeCSSpath', themeCSSpath, {expires: 365, path: '/'})
-    }
-
-    return false
-  })
-
-  $('#layout').change(function () {
-    if ($(this).val() !== '') {
-      var themeLayout = $(this).val()
-
-      $('body').removeClass('wide')
-      $('body').removeClass('boxed')
-
-      $('body').addClass(themeLayout)
-
-      $.cookie('themeLayout', themeLayout, {expires: 365, path: '/'})
-    }
-
-    return false
-  })
-}
 
 /* slider homepage */
 function sliderHomepage () {
