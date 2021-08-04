@@ -2,7 +2,7 @@
 title = "Impermeabilizzazione con Poliurea"
 description = "Impermeabilizzazione di tetti, terrazzi, parcheggi, piscine, vasche di depurazione e acqua potabile. La nostra ditta propone tecnologie innovative attraverso prodotti ad alta resistenza e duraturi nel tempo, nello specifico parliamo di Poliurea e membrana impermeabilizzante poliuretanica ad alte prestazioni. "
 keywords = ["impermeabilizzazione", "poliurea", "impermeabilizzazione con poliurea", "tetti", "balconi", "terrazzi", "parcheggi", "piscine"]
-banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317404/banner/impermeabilizzazione_b97kho.jpg"
+banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1620317404/banner/impermeabilizzazione_b97kho.jpg"
 alt = "img-impermeabilizzazione"
 weight = 1
 
@@ -51,19 +51,19 @@ La MEMBRANA IMPERMEABILIZZANTE POLIURETANICA è una membrana di tipo continuo, a
 
 ## TRENITALIA - FIRENZE
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 
 ---
 
 ## STADIO DEL CONERO - ANCONA
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 
 ---
 
 ## PISCINA HOTEL DON JUAN - GIULIANOVA
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
 
 ---
 ---

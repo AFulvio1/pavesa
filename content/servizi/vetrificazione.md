@@ -2,7 +2,7 @@
 title = "Vetrificazione"
 description = "Vetrificazione per la protezione di vasi vinari, cisterne di acqua potabile e in generale vasche industriali ad uso alimentare. Un altro tipo di verniciatura, in particolare riguardante le superfici interne di vasche in c.a. e silos in ferro che vengono a contatto con alimenti e acqua potabile, è la vetrificazione."
 keywords = ["vetrificazione", "vasi vinari", "cisterne", "vasche industriali"]
-banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317051/banner/vetrificazione_yezoo5.jpg"
+banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1620317051/banner/vetrificazione_yezoo5.jpg"
 alt = "img-vetrificazione"
 weight = 6
 +++
@@ -50,7 +50,7 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 ### VETRIFICAZIONE VASI VINARI - CANTINA SANGRO - FOSSACESIA (CH)
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altDurante="vetrificazione-durante" altDopo="vetrificazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altDurante="vetrificazione-durante" altDopo="vetrificazione-dopo" >}}
 
 ---
 ---

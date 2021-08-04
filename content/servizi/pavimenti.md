@@ -2,7 +2,7 @@
 title = "Pavimenti"
 description = "Pavimenti industriali, pavimenti in poliuretano/cemento, pavimenti in resina. La soluzione ideale per ogni tipo di esigenza. Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente. Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni."
 keywords = ["pavimenti", "pavimenti industriali", "pavimenti in resina", "pavimento", "poliuretano"]
-banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1620317050/banner/pavimento_fdqqil.jpg"
+banner = "https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1620317050/banner/pavimento_fdqqil.jpg"
 alt = "img-pavimentazione"
 weight = 2
 
@@ -47,7 +47,7 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 
 ### PAVIMENTO IN UCRETE - LEONARDO COMPANY - FOGGIA
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
 
 ---
 ---
@@ -61,7 +61,7 @@ Certiticato AgBB per le basse emissione sugli ambienti di lavori indoor, è resi
 
 ### PAVIMENTO POLIURETANICO - CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
 
 ---
 ---
@@ -77,7 +77,7 @@ Può essere impiegato nelle industrie meccaniche, industrie alimentari e struttu
 
 ### PAVIMENTO IN RESINA - SAN SEVERO
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto,c_scale,q_75,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-prima" altDurante="pavimentazione-durante" altDopo="pavimentazione-dopo" >}}
 
 ---
 ---
