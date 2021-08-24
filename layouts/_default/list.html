@@ -25,9 +25,9 @@
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="banner">
+                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" loading=lazy alt="banner">
                                           {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="banner">
+                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" loading=lazy alt="banner">
                                           {{ end }}
                                       </a>
                                   </div>

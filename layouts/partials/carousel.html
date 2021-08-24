@@ -6,10 +6,10 @@
               {{ range sort .Site.Data.carousel "weight" }}
               <div class="item">
                   <div class="row">
-                      <div class="col-sm-12">
+                      <div class="col-sm-12"> 
                           <h1>{{ .title }}</h1>
                           {{ .description | safeHTML }}
-                          <img class="img-responsive lazyload" src="{{ .image }}" alt="{{ .alt }}">
+                          <img src="{{ .image }}" class="img-responsive" alt="{{ .alt }}" style="display: block; margin: 0 auto; text-align: center;">
                       </div>
                   </div>
               </div>
