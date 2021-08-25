@@ -795,7 +795,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/whitegrid.png') center center repeat;
+  background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629887228/sfondi/whitegrid.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1152,7 +1152,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/whitegrid.png') center center repeat;
+  background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629887228/sfondi/whitegrid.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1778,12 +1778,12 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/fixed-background.png') center top no-repeat;
+  background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629888013/sfondi/fixed-background.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/fixed-background.png') center top no-repeat;
+  background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629888013/sfondi/fixed-background.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
