@@ -58,7 +58,7 @@ La pulizia delle superfici può essere eseguita, sempre in base al tipo di suppo
 
 ### SABBIATURA ESTERNA DI UN SERBATOIO D'ACCIAIO - SICILIANI - PALO DEL COLLE (BA)
 
-{{< ytvideos url="https://www.youtube.com/watch?v=l7dqeNT2jQc" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" >}}
+{{< ytvideos url="https://www.youtube.com/embed/l7dqeNT2jQc" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" >}}
 
 
 
