@@ -605,5 +605,13 @@
   var cl = new cloudinary.Cloudinary({cloud_name: "afulvio", secure: true});
 </script>
 
+
+<script>
+  var video_wrapper=$('.videoWrapper');
+  if(video_wrapper.length){
+    $('.play-youtube-video').on('click',function(){ video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="'+video_wrapper.data('yt-url')+'"></iframe>');});
+  }
+</script>
+
   </body>
 </html>
