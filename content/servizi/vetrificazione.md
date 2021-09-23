@@ -42,7 +42,7 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 - certificato secondo il DM 174 6/4/2004 (Regolamento concernente i materiali e gli oggetti che possono essere utilizzati negli impianti fissi di captazione, trattamento, adduzione e distribuzione delle acque destinate al consumo umano);
 
-- rispetta i limiti e le restrizioni previste dal dal Regolamento CE N. 1895/2005 relativo alla restrizione dell’uso di alcuni derivati epossidici destinati a entrare in contatto con alimenti (proibizione di “BFDGE” e di “NOGE” e rispetto dei limiti di migrazione specifica del “BADGE”);
+- rispetta i limiti e le restrizioni previste dal dal Regolamento CE N. 1895/2005 relativo alla restrizione dell’uso di alcuni derivati epossidici destinati a entrare in contatto con alimenti (proibizione -verniciatura-serbatoiodi “BFDGE” e di “NOGE” e rispetto dei limiti di migrazione specifica del “BADGE”);
 
 - risponde ai principi definiti nella UNI EN 1504/2 (“Sistemi di protezione della superficie di calcestruzzo”) e ai relativi limiti di accettazione. 
 
@@ -50,7 +50,7 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 ### VETRIFICAZIONE VASI VINARI - CANTINA SANGRO - FOSSACESIA (CH)
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altDurante="vetrificazione-durante" altDopo="vetrificazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altPrima="vetrificazione-vasche-prima" altDurante="vetrificazione-vasche-durante" altDopo="vetrificazione-vasche-dopo" >}}
 
 ---
 ---
