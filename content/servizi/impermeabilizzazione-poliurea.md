@@ -49,21 +49,23 @@ La MEMBRANA IMPERMEABILIZZANTE POLIURETANICA è una membrana di tipo continuo, a
 
 ---
 
-## TRENITALIA - FIRENZE
+# {{< blank "TRENITALIA" "https://www.trenitalia.com/it.html" >}} - FIRENZE
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
-
----
-
-## STADIO DEL CONERO - ANCONA
-
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
 
 ---
 
-## PISCINA HOTEL DON JUAN - GIULIANOVA
+# STADIO DEL CONERO - ANCONA
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-prima" altDurante="impermeabilizzazione-durante" altDopo="impermeabilizzazione-dopo" >}}
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
+
+---
+
+# PISCINA {{< blank "HOTEL DON JUAN" "http://www.grandhoteldonjuan.it/" >}} - GIULIANOVA
+
+{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
+
+{{< ytvideos url="https://www.youtube.com/embed/Nd3e8vT9W1A" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" alt="impermeabilizzazione-poliurea-piscina">}}
 
 ---
 ---
