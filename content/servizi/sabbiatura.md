@@ -48,6 +48,12 @@ La pulizia delle superfici può essere eseguita, sempre in base al tipo di suppo
 ---
 ---
 
+# SABBIATURA MATTONI FACCIA A VISTA
+
+{{< work-single img="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1636455682/lavori/sabbiatura/sabbiatura-mattoni-faccia-a-vista.jpg" alt="sabbiatura-mattoni-faccia-a-vista" >}}
+
+---
+
 
 # SABBIATURA E VERNICIATURA ESTERNA DI UN SERBATOIO IN FERRO - CANTINA DI CASALBORDINO (CH)
 
