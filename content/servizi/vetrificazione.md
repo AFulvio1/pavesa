@@ -48,9 +48,9 @@ MASTERSEAL M 391 presenta le seguenti caratteristiche peculiari:
 
 ---
 
-### VETRIFICAZIONE VASI VINARI - CANTINA SANGRO - FOSSACESIA (CH)
+## VETRIFICAZIONE VASI VINARI - CANTINA SANGRO - FOSSACESIA (CH)
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altPrima="vetrificazione-vasche-prima" altDurante="vetrificazione-vasche-durante" altDopo="vetrificazione-vasche-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/durante.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620936/lavori/verniciatura/prima.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620935/lavori/verniciatura/dopo.jpg" altPrima="vetrificazione-vasche-prima" altDurante="vetrificazione-vasche-durante" altDopo="vetrificazione-vasche-dopo" >}}
 
 ---
 ---

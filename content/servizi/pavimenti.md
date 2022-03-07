@@ -47,7 +47,7 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 
 ## PAVIMENTO IN UCRETE - {{< blank "LEONARDO COMPANY" "https://www.leonardocompany.com/it/home" >}} - FOGGIA
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
 
 ---
 ---
@@ -61,7 +61,7 @@ Certiticato AgBB per le basse emissione sugli ambienti di lavori indoor, è resi
 
 ## PAVIMENTO POLIURETANICO - CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-poliuretano-prima" altDurante="pavimentazione-poliuretano-durante" altDopo="pavimentazione-poliuretano-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-poliuretano-prima" altDurante="pavimentazione-poliuretano-durante" altDopo="pavimentazione-poliuretano-dopo" >}}
 
 ---
 ---
@@ -77,7 +77,7 @@ Può essere impiegato nelle industrie meccaniche, industrie alimentari e struttu
 
 ## PAVIMENTO IN RESINA - SAN SEVERO
 
-{{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
 
 ---
 ---
