@@ -34,7 +34,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 2
 
 [[menu.main]]
-    identifier="servizi"
+    identifier = "servizi"
     name = "Servizi"
     url  = "/servizi/"
     weight = 3
