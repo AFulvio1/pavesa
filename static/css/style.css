@@ -1130,7 +1130,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .owl-carousel .owl-controls .owl-buttons,
 .owl-theme .owl-controls .owl-buttons {
-  position: absolute;
+  position: sticky;
   top: 5px;
   right: 0;
 }
@@ -1152,27 +1152,38 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629887228/sfondi/whitegrid.png') center center repeat;
-  background-size: cover;
+  width: 100%;
+  height: 91vh;
+  background-color: #fecd39;
+  padding-top: 25px;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-.home-carousel .dark-mask {
+.home-carousel .owl-carousel .container {
+  height: 91vh;
   position: absolute;
-  top: 0;
-  left: 0;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.home-carousel .owl-carousel .item {
   width: 100%;
-  height: 100%;
-  background: #fecd39;
-  opacity: 0.9;
-  filter: alpha(opacity=90);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
 }
-.home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+.home-carousel .owl-carousel .col-sm-12 {
+  width: 100%;
+  height: 83vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 400px;
+  text-align: center;
+  justify-items: center;
 }
-.home-carousel .owl-theme .owl-controls .owl-page span {
+/* .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
 }
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
@@ -1180,7 +1191,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel .owl-theme .owl-controls .owl-page:hover span {
   background: #fff;
-}
+} */
 @media (max-width: 767px) {
   .home-carousel {
     text-align: center !important;
@@ -1194,19 +1205,41 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h1,
 .home-carousel h2,
 .home-carousel h3,
-.home-carousel p,
-.home-carousel ul {
+.home-carousel p {
+  opacity: 1;
   color: #fff;
 }
 .home-carousel h1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 46px;
-  letter-spacing: 0.08em;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 3px;
+  font-size: 50px;
+  color: #ffffff;
+  opacity: 1;
+}
+.home-carousel p {
+  background-color: rgba(0, 0, 0, 0.8);
+  font-size: 30px;
+  color: #eeeeee;
+  opacity: 1;
 }
 @media (max-width: 991px) {
+  .home-carousel {
+    height: 95vh;
+  }
+  .home-carousel .owl-carousel .col-sm-12 {
+    height: 85vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 120%;
+    text-align: center;
+    justify-items: center;
+  }
   .home-carousel h1 {
-    font-size: 36px;
+    font-size: 20px;
+  }
+  .home-carousel p {
+    font-size: 18px;
+    padding: 50px;
   }
 }
 .home-carousel h2 {
@@ -1215,7 +1248,6 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 40px;
   letter-spacing: 0.08em;
 }
-.home-carousel ul,
 .home-carousel p {
   font-size: 18px;
   font-weight: 700;
@@ -1224,7 +1256,6 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
-  .home-carousel ul,
   .home-carousel p {
     font-size: 14px;
   }
@@ -1747,7 +1778,6 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 700;
-  letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
   #heading-breadcrumbs h1 {
@@ -1769,7 +1799,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: solid 1px #999999;
 }
 .bar.background-gray {
-  background: #eeeeee;
+  background: #fff;
 }
 .bar.background-gray-dark {
   background: #555555;
@@ -1786,6 +1816,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: url('https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_fill,q_auto,f_auto/v1629888013/sfondi/fixed-background.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  opacity: 0.8;
 }
 .bar.color-white h1,
 .bar.color-white h2,
@@ -1860,7 +1891,11 @@ fieldset[disabled] .btn-template-primary.active {
   margin-top: 20px;
   padding-top: 20px;
 }
+.see-more h3 {
+  box-shadow: 10px 20px #fff;
+}
 .see-more p {
+  box-shadow: 10px 20px #fff;
   font-size: 28px;
   font-weight: 100;
   margin-bottom: 20px;
@@ -3588,11 +3623,6 @@ a.list-group-item.active > .badge,
   font-weight: 300;
 }
 
-#mail-phone{
-  font-size: 18px;
-  font-weight: 300;
-}
-
 .personal > h1{
   color: white;
 }
@@ -3610,56 +3640,42 @@ a.list-group-item.active > .badge,
 	height: 100%;
 }
 
-/* YT - Video 
-.youtube-container { 
-  display: block; 
-  margin: 20px auto; 
-  width: 100%; 
-  max-width: 600px; 
-  }
-  
-  .youtube-player { 
-  display: block; 
-  width: 100%; /* assuming that the video has a 16:9 ratio  
-  padding-bottom: 56.25%; 
-  overflow: hidden; 
-  position: relative; 
-  width: 100%; 
-  height: 100%; 
-  cursor: hand; 
-  cursor: pointer; 
-  display: block; 
-  }
-  
-  img.youtube-thumb { 
-  bottom: 0; 
-  display: block; 
-  left: 0; 
-  margin: auto; 
-  max-width: 100%; 
-  width: 100%; 
-  position: absolute; 
-  right: 0; 
-  top: 0; 
-  height: auto 
-  }
-  
-  div.play-button { 
-  height: 72px; 
-  width: 72px; 
-  left: 50%; 
-  top: 50%; 
-  margin-left: -36px; 
-  margin-top: -36px; 
-  position: absolute; 
-  background: url("https://i.imgur.com/TxzC70f.png") no-repeat; 
-  }
-  
-  #youtube-iframe { 
-  width: 100%; 
-  height: 100%; 
-  position: absolute; 
-  top: 0px; 
-  left: 0px; 
-  } */
-  
+.yellow {
+  background-color: #fecd39;
+  height: 30px;
+  border-color: #fecd39;
+}
+
+#contatti {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#contatti .row {
+  display: flex;
+  align-items: center;
+}
+
+#contatti .row h4 {
+  font-size: 30px;
+}
+
+#contatti .row img {
+  width: 90px;
+  height: 90px;
+}
+
+footer .col-sm-12 {
+  padding: 0px 30px;
+  padding-top: 5px;
+}
+
+footer .social {
+  padding-top: 20px;
+}
+
+footer .social a i {
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+}

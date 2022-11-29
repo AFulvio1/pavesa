@@ -1,20 +1,18 @@
 <section>
-  <div class="home-carousel">
-      <div class="dark-mask"></div>
-      <div class="container">
-          <div class="homepage owl-carousel">
-              {{ range sort .Site.Data.carousel "weight" }}
-              <div class="item">
-                  <div class="row">
-                      <div class="col-sm-12"> 
-                          <h1>{{ .title }}</h1>
-                          {{ .description | safeHTML }}
-                          <img src="{{ .image }}" class="img-responsive" alt="{{ .alt }}">
-                      </div>
-                  </div>
-              </div>
-              {{ end }}
-          </div>
-      </div>
-  </div>
+    <div class="home-carousel">
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range sort .Site.Data.carousel "weight" }}
+                    <div class="item" style="background-image: url('{{ .image }}'); opacity: 0.9;">
+                        <div class="row">
+                            <div class="col-sm-12"> 
+                                <h1>{{ .title }}</h1>
+                                <p>{{ .description }}</p>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 </section>

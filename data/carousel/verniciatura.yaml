@@ -1,8 +1,5 @@
 weight: 2
-title: "VERNICIATURA"
-description: >
-  <ul class="list-style-none">
-    <li>Per la protezione di tutte le superfici, piane e verticali</li>
-  </ul>
+title: VERNICIATURA
+description: Per la protezione di tutte le superfici, piane e verticali
 image: "https://res.cloudinary.com/afulvio/image/upload/w_1150/h_632/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1618937273/slider/verniciatura.png"
-alt: "img-verniciatura"
+alt: img-verniciatura

@@ -1,8 +1,5 @@
 weight: 3
-title: "SABBIATURA"
-description: >
-  <ul class="list-style-none">
-    <li>Per la pulizia di metalli e altri materiali</li>
-  </ul>
+title: SABBIATURA
+description: Per la pulizia di metalli e altri materiali
 image: "https://res.cloudinary.com/afulvio/image/upload/w_1150/h_632/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1618937272/slider/sabbiatura.png"
-alt: "img-sabbiatura"
+alt: img-sabbiatura

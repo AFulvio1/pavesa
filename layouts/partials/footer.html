@@ -1,24 +1,26 @@
 <footer>
     <div id="copyright">
         <div class="container text-center">
-            <div class="col-sm-3">
+            <div class="col-sm-12 text-center-sm">
+                <div class="social">
+                    {{ range .Site.Menus.topbar.ByWeight }}
+                        <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+                    {{ end }}
+                </div>
+            </div>
+            <div class="col-sm-12 text-center-sm">
+                <p><a href="https://www.pavesasrl.it/privacy/" target="_blank">Privacy & Coockie Policy</a></p>
+            </div>
+            <div class="col-sm-12 text-center-sm">
                 <img src="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620065975/logo/logo-soa_tcurwh.png" loading=lazy alt="logo-soa" id="loghi" class="">
                 <img src="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620065975/logo/logo-csq_s1rgfn.png" loading=lazy alt="logo-iso" id="loghi" class="">
             </div>
-            <div class="col-sm-6" style="width: auto; height: 70px;">
-                <p><a href="https://www.pavesasrl.it/privacy/" target="_blank">Privacy & Coockie Policy</a></p>
+            <div class="col-sm-12 text-center-sm">
                 {{ .Site.Params.copyright | safeHTML }}
                 <!-- {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
                     Not removing this link is part of the licence conditions of the template. Thanks for understanding :) 
 
                 {{ i18n "portedBy" | markdownify }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>. -->
-            </div>
-            <div class="col-sm-3" style="width: auto; height: 70px; margin-top: 20px;">
-                <div class="social">
-                    {{ range .Site.Menus.topbar.ByWeight }}
-                    <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
-                    {{ end }}
-                </div>
             </div>
         </div>
     </div>
