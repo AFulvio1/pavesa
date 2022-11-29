@@ -1224,10 +1224,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 991px) {
   .home-carousel {
-    height: 95vh;
+    height: 87vh;
   }
   .home-carousel .owl-carousel .col-sm-12 {
-    height: 85vh;
+    height: 77vh;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 120%;
