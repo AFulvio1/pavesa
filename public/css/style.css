@@ -1082,7 +1082,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .home-carousel {
-  height: 100vh;
+  height: 93vh;
   width: 100%;
   position: relative;
   background-color: #fecd39;
@@ -1107,7 +1107,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .home-carousel .owl-carousel .item {
-  height: 85vh;
+  height: 83vh;
   width: 100%;
   background-position: center;
   background-size: cover;
@@ -1167,10 +1167,10 @@ fieldset[disabled] .btn-template-primary.active {
 
 @media (max-width: 991px) {
   .home-carousel {
-    height: 90vh;
+    height: 87vh;
   }
   .home-carousel .owl-carousel .item {
-    height: 80vh;
+    height: 77vh;
   }
 
   .home-carousel .owl-carousel .col-sm-12 {
