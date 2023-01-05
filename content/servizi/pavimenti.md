@@ -9,16 +9,17 @@ weight = 2
 summary = "Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente. Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni. In particolare possiamo distinguere quattro tipi di pavimentazioni: pavimentazione con Ucrete; pavimento poliuretanico autolivellante; pavimento multistrato; pavimentazione per balconi e terrazzi;"
 +++
 
-Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente. 
+Le pavimentazioni realizzate dalla PA.VE.SA. srl sono molteplici e a seconda delle esigenze del cliente.
 
-Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni. 
+Sono caratterizzate da materiali flessibili che permettono di resistere alle sollecitazioni interne ed esterne con grandi prestazioni.
 
-In particolare possiamo distinguere quattro tipi di pavimentazioni: 
+In particolare possiamo distinguere quattro tipi di pavimentazioni:
 
 ---
 ---
 
-# PAVIMENTAZIONE CON UCRETE
+## PAVIMENTAZIONE CON UCRETE
+
 {{< blank "UCRETE® UD200" "https://www.master-builders-solutions.com/it-it/linee-prodotti/ucrete/ucrete-ud200" >}} è una pavimentazione per uso industriale, colorata, in poliuretano-cemento, quadricomponente, priva di solventi, a finitura semiopaca, avente caratteristiche antislittamento ed antiscivolamento e può essere applicata da 6 a 12 mm di spessore.
 
 Consente di realizzare delle pavimentazioni industriali continue estremamente resistenti all’attacco chimico, agli impatti, ai lavaggi, agli scarichi ed agli spandimenti di liquidi sino alla temperatura di 150°C.
@@ -45,49 +46,52 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 
 ---
 
-## PAVIMENTO IN UCRETE - {{< blank "LEONARDO COMPANY" "https://www.leonardocompany.com/it/home" >}} - FOGGIA
+### PAVIMENTO IN UCRETE - {{< blank "LEONARDO COMPANY" "https://www.leonardocompany.com/it/home" >}} - FOGGIA
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
 
 ---
 ---
 
-# PAVIMENTO POLIURETANICO AUTOLIVELLANTE
-Ѐ solitamente impiegato negli interventi in industrie chimiche e farmaceutiche (aree soggette ad elevati standard igienici), showroom, negozi, aree di stoccaggio, aree produttive. 
+## PAVIMENTO POLIURETANICO AUTOLIVELLANTE
+
+Ѐ solitamente impiegato negli interventi in industrie chimiche e farmaceutiche (aree soggette ad elevati standard igienici), showroom, negozi, aree di stoccaggio, aree produttive.
 
 Certiticato AgBB per le basse emissione sugli ambienti di lavori indoor, è resistente agli urti, all’usura e a traffici frequenti.
 
 ---
 
-## PAVIMENTO POLIURETANICO - CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO
+### PAVIMENTO POLIURETANICO - CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-poliuretano-prima" altDurante="pavimentazione-poliuretano-durante" altDopo="pavimentazione-poliuretano-dopo" >}}
 
 ---
 ---
 
-# PAVIMENTO MULTISTRATO
-Ѐ una pavimentazione continua con caratteristiche di antiscivolamento ed antislittamento, ad alta resistenza all'abrasione e agli impatti. 
+## PAVIMENTO MULTISTRATO
 
-Certificato AgBB a basse emissioni, è privo di giunti e quindi facilita e semplifica la pulizia migliorando il confort dell’ambiente. 
+Ѐ una pavimentazione continua con caratteristiche di antiscivolamento ed antislittamento, ad alta resistenza all'abrasione e agli impatti.
+
+Certificato AgBB a basse emissioni, è privo di giunti e quindi facilita e semplifica la pulizia migliorando il confort dell’ambiente.
 
 Può essere impiegato nelle industrie meccaniche, industrie alimentari e strutture commerciali, nonché aree industriali siano esse interne o esterne soggette ad attacchi chimici quali ad esempio vasche di contenimento secondario o nelle zone di stoccaggio.
 
 ---
 
-## PAVIMENTO IN RESINA - SAN SEVERO
+### PAVIMENTO IN RESINA - SAN SEVERO
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
 
 ---
 ---
 
-# PAVIMENTAZIONE PER BALCONI E TERRAZZI
-Ѐ un’ impermeabilizzante a basso spessore di tipo continuo a base di una resina poliuretanica trasparente elastica monocomponente. 
+## PAVIMENTAZIONE PER BALCONI E TERRAZZI
 
-Ѐ impiegata per la protezione e impermeabilizzazione continua di balconi in piastrelle, calcestruzzo e di terrazze pedonabili soggette a minimi movimenti. 
+Ѐ un’ impermeabilizzante a basso spessore di tipo continuo a base di una resina poliuretanica trasparente elastica monocomponente.
 
-Presenta elevate caratteristiche elastiche e meccaniche ed è resistente ai raggi UV. 
+Ѐ impiegata per la protezione e impermeabilizzazione continua di balconi in piastrelle, calcestruzzo e di terrazze pedonabili soggette a minimi movimenti.
+
+Presenta elevate caratteristiche elastiche e meccaniche ed è resistente ai raggi UV.
 
 ---
 ---

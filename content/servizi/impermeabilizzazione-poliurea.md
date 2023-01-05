@@ -13,7 +13,7 @@ La nostra ditta propone tecnologie innovative che vanno a sostituire la comune g
 
 La POLIUREA presenta una tecnologia basata sulla chimica di reazione di sistemi bicomponenti applicati a spruzzo ed utilizzati nel settore dei rivestimenti ed impermeabilizzazioni.
 
-La POLIUREA infatti è una membrana elastomerica a rapido indurimento adatta all’impermeabilizzazione di strutture idrauliche quali dighe, canali, opere di contenimento reflui industriali, impianti fognari, depuratori, vasche di contenimento secondarie, digestori di impianti di biogas. Impermeabilizzazioni realizzabili anche su superfici quali terrazzi, tetti, pavimenti e superfici verticali siano esse di strutture aziendali e anche privati. 
+La POLIUREA infatti è una membrana elastomerica a rapido indurimento adatta all’impermeabilizzazione di strutture idrauliche quali dighe, canali, opere di contenimento reflui industriali, impianti fognari, depuratori, vasche di contenimento secondarie, digestori di impianti di biogas. Impermeabilizzazioni realizzabili anche su superfici quali terrazzi, tetti, pavimenti e superfici verticali siano esse di strutture aziendali e anche privati.
 
 La POLIUREA viene applicata a spruzzo con la nostra nuova macchina bi-mix REACTOR E-XP2 AP GUN dell’ azienda GRACO, permettendo così di creare una lavorazione continua e di ultima generazione.
 
@@ -29,7 +29,7 @@ In particolare i vantaggi di questo prodotto sono:
 
 - resistenza alle alte temperature;
 
-- applicazione a spessore anche su superfici verticali. 
+- applicazione a spessore anche su superfici verticali.
 
 ---
 
@@ -45,29 +45,29 @@ La MEMBRANA IMPERMEABILIZZANTE POLIURETANICA è una membrana di tipo continuo, a
 
 - certificato per contatto con acqua potabile;
 
-- certificati antiradice, UNI CEN/TC 14416 
+- certificati antiradice, UNI CEN/TC 14416
 
 ---
 ---
 
-# {{< blank "TRENITALIA" "https://www.trenitalia.com/it.html" >}} - FIRENZE
+## {{< blank "TRENITALIA" "https://www.trenitalia.com/it.html" >}} - FIRENZE
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/prima_uodoo6.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/durante_n8cd9h.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1620052516/lavori/impermeabilizzazione/trenitalia/dopo_pudkub.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
 
 ---
 ---
 
-# STADIO DEL CONERO - ANCONA
+## STADIO DEL CONERO - ANCONA
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619190087/lavori/impermeabilizzazione/dopo.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
 
 ---
 ---
 
-# PISCINA {{< blank "HOTEL DON JUAN" "http://www.grandhoteldonjuan.it/" >}} - GIULIANOVA
+## PISCINA {{< blank "HOTEL DON JUAN" "http://www.grandhoteldonjuan.it/" >}} - GIULIANOVA
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
-{{< ytvideos url="https://www.youtube.com/embed/Nd3e8vT9W1A" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" alt="impermeabilizzazione-poliurea-piscina">}}
+{{< ytvideos1 url1="https://www.youtube.com/embed/Nd3e8vT9W1A" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" alt="impermeabilizzazione-poliurea-piscina">}}
 
 ---
 ---

@@ -6,7 +6,9 @@
                     <div class="item" style="background-image: url('{{ .image }}'); opacity: 0.9;">
                         <div class="row">
                             <div class="col-sm-12"> 
-                                <h1>{{ .title }}</h1>
+                                <a href="{{ .url | relURL }}">
+                                    <h1>{{ .title }}</h1>
+                                </a>
                                 <p>{{ .description }}</p>
                             </div>
                         </div>

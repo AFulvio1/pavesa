@@ -3,27 +3,28 @@ title = "Privacy and Cookie Policy"
 description = "Informativa Privacy estesa per pavesasrl.it"
 +++
 
-*Informativa Privacy estesa per pavesasrl.it*
+**Informativa Privacy estesa per pavesasrl.it*
 
 ---
 
-## Privacy policy
+# Privacy policy
 
 Per la PA.VE.SA. la privacy dei propri utenti è di primaria importanza. La presente Informativa sulla privacy definisce quali dati vengono raccolti e il modo in cui gli stessi vengono utilizzati, divulgati, trasferiti e/o archiviati dal Sito. Questo sito raccoglie alcuni dati personali dei propri utenti.
 
-### Titolare del Trattamento dei dati
+## Titolare del Trattamento dei dati
 
 In caso di domande relative alla presente politica di privacy è possibile contattarci utilizzando le informazioni riportate di seguito.
 
 Email: info@pavesasrl.it P.IVA: 01617240708
 
-### Tipologie di dati raccolti
+## Tipologie di dati raccolti
 
 È possibile visitare il nostro sito in modo anonimo. Fra i dati personali raccolti da pavesasrl.it, in modo autonomo o tramite terze parti, ci sono: Cookie, dati di utilizzo, e varie tipologie di Dati. Dettagli completi su ciascuna tipologia di dati raccolti sono forniti nelle sezioni dedicate di questa privacy policy o mediante specifici testi informativi visualizzati prima della raccolta dei dati stessi. I Dati Personali possono essere liberamente forniti dall’Utente o, nel caso di Dati di Utilizzo, raccolti automaticamente durante l’uso del sito. Nei casi in cui il sito pavesasrl.it indichi alcuni Dati come facoltativi, gli Utenti sono liberi di astenersi dal comunicare tali Dati, senza che ciò abbia alcuna conseguenza sulla disponibilità del Servizio o sulla sua operatività. Gli Utenti che dovessero avere dubbi su quali Dati siano obbligatori, sono incoraggiati a contattare il Titolare. L’eventuale utilizzo di Cookie – o di altri strumenti di tracciamento – da parte del sito pavesasrl.it o dei titolari dei servizi terzi utilizzati da pavesasrl.it, ove non diversamente precisato, ha la finalità di fornire il Servizio richiesto dall’Utente, oltre alle ulteriori finalità descritte nel presente documento e nella Cookie Policy, se disponibile. L’Utente si assume la responsabilità dei Dati Personali di terzi ottenuti, pubblicati o condivisi mediante pavesasrl.it e garantisce di avere il diritto di comunicarli o diffonderli, liberando il Titolare da qualsiasi responsabilità verso terzi.
 
 ---
 
 ## Modalità e luogo del trattamento dei Dati raccolti
+
 ### Modalità di trattamento
 
 Il Titolare tratta i Dati Personali degli Utenti adottando le opportune misure di sicurezza volte ad impedire l’accesso, la divulgazione, la modifica o la distruzione non autorizzate dei Dati Personali. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate. Oltre al Titolare, in alcuni casi, potrebbero avere accesso ai Dati categorie di incaricati coinvolti nell’organizzazione del sito (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (come fornitori di servizi tecnici terzi, corrieri postali, hosting provider, società informatiche, agenzie di comunicazione) nominati anche, se necessario, Responsabili del Trattamento da parte del Titolare. L’elenco aggiornato dei Responsabili potrà sempre essere richiesto al Titolare del Trattamento.
@@ -58,6 +59,7 @@ I Dati dell’Utente sono raccolti per consentire al Titolare di fornire i propr
 ---
 
 ## Dettagli sul trattamento dei Dati Personali
+
 I Dati Personali sono raccolti per le seguenti finalità ed utilizzando i seguenti servizi:
 
 ### Interazione con social network e piattaforme esterne
@@ -75,6 +77,7 @@ Google Analytics è un servizio di analisi web fornito da Google Ireland Limited
 Dati personali raccolti: Cookie e Dati di utilizzo. Luogo del trattamento : USA – {{< blank "Privacy Policy" "https://policies.google.com/privacy?hl=en&gl=it" >}} – {{< blank "Opt Out" "https://tools.google.com/dlpage/gaoptout?hl=it" >}}
 
 ### Diritti dell’Utente
+
 Gli Utenti possono esercitare determinati diritti con riferimento ai Dati trattati dal Titolare.
 
 In particolare, l’Utente ha il diritto di:
@@ -188,4 +191,3 @@ Ultima modifica: 31 Maggio 2021
 
 ---
 ---
-

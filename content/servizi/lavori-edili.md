@@ -11,7 +11,7 @@ Dotata di un impianto mobile per la sabbiatura, la nostra ditta è in grado di c
 
 La ditta PA.VE.SA. srl scrosta e pulisce muratura da intonaci cadenti, sabbia calcestruzzi, mattoni pietre e marmi faccia a vista nonché, offre trattamenti impermeabilizzanti contro muffe ed intemperie.
 
-Su facciate esterne adottiamo la tecnica dell' idrosabbiatura per abbattere fortemente la produzione di polveri leggere. 
+Su facciate esterne adottiamo la tecnica dell' idrosabbiatura per abbattere fortemente la produzione di polveri leggere.
 
 ---
 ---
