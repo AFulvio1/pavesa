@@ -1113,6 +1113,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
   position: relative;
   border-radius: 10px;
+  border: 5px solid #fff;
   z-index: 1;
 }
 
@@ -1166,8 +1167,12 @@ fieldset[disabled] .btn-template-primary.active {
 
 @media (max-width: 991px) {
   .home-carousel {
-    height: 100vh;
+    height: 90vh;
   }
+  .home-carousel .owl-carousel .item {
+    height: 80vh;
+  }
+
   .home-carousel .owl-carousel .col-sm-12 {
     height: 80%;
     padding-left: 30px;
