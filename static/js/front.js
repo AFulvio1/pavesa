@@ -20,7 +20,6 @@ $(function () {
   counters()
 })
 
-
 /* slider homepage */
 function sliderHomepage () {
   if ($('#slider').length) {

@@ -67,7 +67,7 @@ La MEMBRANA IMPERMEABILIZZANTE POLIURETANICA è una membrana di tipo continuo, a
 ## PISCINA {{< blank "HOTEL DON JUAN" "http://www.grandhoteldonjuan.it/" >}} - GIULIANOVA
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271192/lavori/impermeabilizzazione/piscina/impermeabilizzazione-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1624271193/lavori/impermeabilizzazione/piscina/impermeabilizzazione-dopo.jpg" altPrima="impermeabilizzazione-poliurea-prima" altDurante="impermeabilizzazione-poliurea-durante" altDopo="impermeabilizzazione-poliurea-dopo" >}}
-{{< ytvideos1 url1="https://www.youtube.com/embed/Nd3e8vT9W1A" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632386567/banner-yt/thumbnails-yt-impermeabilizzazione-DonJuan.jpg" alt="impermeabilizzazione-poliurea-piscina">}}
+> {{< ytvideos url="https://www.youtube.com/embed/Nd3e8vT9W1A" alt="impermeabilizzazione-poliurea-piscina">}}
 
 ---
 ---

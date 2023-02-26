@@ -69,7 +69,7 @@ La pulizia delle superfici può essere eseguita, sempre in base al tipo di suppo
 
 ## {{< blank "SICILIANI" "http://www.sicilianispa.it/" >}} - PALO DEL COLLE (BA)
 
-> {{< ytvideos1 url1="https://www.youtube.com/embed/l7dqeNT2jQc" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1631002781/banner-yt/thumbnail-yt-sabbiatura-cisterna.jpg" alt="sabbiatura-esterna-serbatoio-in-acciaio">}}
+> {{< ytvideos url="https://www.youtube.com/embed/l7dqeNT2jQc" alt="sabbiatura-esterna-serbatoio-in-acciaio">}}
 
 ---
 ---
@@ -85,7 +85,7 @@ La pulizia delle superfici può essere eseguita, sempre in base al tipo di suppo
 ### *ESTERNO*
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632298255/lavori/sabbiatura/villanova/sabbiatura-serbatoio-esterno-prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632298255/lavori/sabbiatura/villanova/sabbiatura-serbatoio-esterno-durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632298255/lavori/sabbiatura/villanova/sabbiatura-serbatoio-esterno-dopo.jpg" altPrima="sabbiatura-serbatoio-esterno-prima" altDurante="sabbiatura-serbatoio-esterno-durante" altDopo="sabbiatura-serbatoio-esterno-dopo" >}}
-> {{< ytvideos2 url2="https://www.youtube.com/embed/3DsElohHP-Q" img-low="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632339767/banner-yt/thumbnails-yt-sabbiatura-inoxa.jpg" img-high="https://res.cloudinary.com/afulvio/image/upload/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1632339767/banner-yt/thumbnails-yt-sabbiatura-inoxa.jpg" alt="sabbiatura-esterna-serbatoio-in-ferro">}}
+> {{< ytvideos url="https://www.youtube.com/embed/3DsElohHP-Q" alt="sabbiatura-esterna-serbatoio-in-ferro">}}
 
 ---
 ---

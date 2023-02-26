@@ -3597,19 +3597,6 @@ a.list-group-item.active > .badge,
   color: white;
 }
 
-/* YT - Video */
-.videoWrapper {
-	position:relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-.videoWrapper iframe {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-}
-
 .yellow {
   background-color: #fecd39;
   height: 30px;
@@ -3666,4 +3653,9 @@ footer .social a i {
   .work-double {
     padding: 0px;
   }
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
 }
