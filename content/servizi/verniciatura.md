@@ -59,7 +59,7 @@ I vari cicli di verniciatura applicati dalla PA.VE.SA. sono:
 
 ## VETRIFICAZIONE INTERNA DI VASCHE IN CEMENTO ARMATO (RESINA PER CONTATTO CON ALIMENTI)
 
-> {{< work-double imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1684958779/lavori/verniciatura/NUOVE/prima1.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1684958779/lavori/verniciatura/NUOVE/dopo1.jpg" altPrima="vetrificazione-prima" altDopo="vetrificazione-dopo" >}}
+> {{< work-double-only-image imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1684958779/lavori/verniciatura/NUOVE/prima1.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1684958779/lavori/verniciatura/NUOVE/dopo1.jpg" altPrima="vetrificazione-prima" altDopo="vetrificazione-dopo" >}}
 
 ---
 ---
