@@ -7,7 +7,7 @@
             <h2>{{ .Site.Params.clients.title | markdownify }}</h2>
         </div>
 
-        <ul class="owl-carousel customers">
+        <ul class="owl-carousel clients">
           {{ range .Site.Data.clients }}
           <li class="item" title="{{ .name }}">
             {{ if .url }}

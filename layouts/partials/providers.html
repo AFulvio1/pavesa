@@ -10,7 +10,7 @@
                   {{ .Site.Params.providers.subtitle | markdownify }}
                 </p>
 
-                <ul class="owl-carousel customers">
+                <ul class="owl-carousel providers">
                     {{ range .Site.Data.providers }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}

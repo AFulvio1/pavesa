@@ -1215,18 +1215,16 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 10px;
 }
 
-.customers {
+.clients {
   padding: 0;
   margin-bottom: 40px;
 }
-
-.customers .item {
+.clients .item {
   list-style-type: none;
   text-align: center;
   margin: 0 20px;
 }
-
-.customers .item img {
+.clients .item img {
   display: inline-block;
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
   /* Firefox 10+, Firefox on Android */
@@ -1238,207 +1236,39 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-
-.customers .item img:hover {
+.clients .item img:hover {
   max-width: auto;
   filter: none;
   -webkit-filter: none;
 }
 
-.testimonials {
+.providers {
   padding: 0;
   margin-bottom: 40px;
 }
-
-.testimonials .item {
+.providers .item {
   list-style-type: none;
-  margin: 0 5px;
-  background: #fff;
-  padding-bottom: 60px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.testimonials .item .testimonial {
-  position: relative;
-  padding: 20px;
-}
-
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
-  content: " ";
-  display: table;
-}
-
-.testimonials .item .testimonial:after {
-  clear: both;
-}
-
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
-  content: " ";
-  display: table;
-}
-
-.testimonials .item .testimonial:after {
-  clear: both;
-}
-
-.testimonials .item .testimonial .text {
-  color: #999999;
-  margin-bottom: 40px;
-}
-
-.testimonials .item .testimonial .bottom {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 20px;
-  height: 50px;
-}
-
-.testimonials .item .testimonial .bottom .icon {
-  color: #fecd39;
-  font-size: 30px;
-  float: left;
-  width: 20%;
-}
-
-.testimonials .item .testimonial .name-picture {
-  float: right;
-  width: 80%;
-  text-align: right;
-}
-
-.testimonials .item .testimonial .name-picture h5 {
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.testimonials .item .testimonial .name-picture p {
-  color: #999999;
-  margin: 0;
-  font-size: 12px;
-}
-
-.testimonials .item .testimonial .name-picture img {
-  float: right;
-  width: 60px;
-  border-radius: 30px;
-  margin-left: 10px;
-}
-
-.team-member {
   text-align: center;
-  margin-bottom: 40px;
+  margin: 0 20px;
 }
-.team-member h3 {
-  font-size: 18px;
-  text-transform: uppercase;
-  margin-bottom: 5px;
-  letter-spacing: 0.08em;
-}
-.team-member h3 a {
-  color: #555555;
-}
-.team-member p.role {
-  color: #999999;
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-}
-.team-member .social {
-  margin-bottom: 20px;
-}
-.team-member .social a {
-  margin: 0 10px 0 0;
-  color: #fff;
+.providers .item img {
   display: inline-block;
-  width: 26px;
-  height: 26px;
-  border-radius: 13px;
-  line-height: 26px;
-  font-size: 15px;
-  text-align: center;
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+  /* Firefox 10+, Firefox on Android */
+  filter: gray;
+  /* IE6-9 */
+  -webkit-filter: grayscale(100%);
+  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  vertical-align: bottom;
 }
-.team-member .social a i {
-  vertical-align: bottom;
-  line-height: 26px;
+.providers .item img:hover {
+  max-width: auto;
+  filter: none;
+  -webkit-filter: none;
 }
-.team-member .social a.facebook {
-  background-color: #4460ae;
-}
-.team-member .social a.gplus {
-  background-color: #c21f25;
-}
-.team-member .social a.twitter {
-  background-color: #3cf;
-}
-.team-member .social a.instagram {
-  background-color: #cd4378;
-}
-.team-member .social a.email {
-  background-color: #fecd39;
-}
-.team-member .text p {
-  color: #999999;
-  font-size: 12px;
-}
-.team-member .social,
-.team-member-detail .social {
-  margin-bottom: 20px;
-}
-.team-member .social a,
-.team-member-detail .social a {
-  margin: 0 10px 0 0;
-  color: #fff;
-  display: inline-block;
-  width: 26px;
-  height: 26px;
-  border-radius: 13px;
-  line-height: 26px;
-  font-size: 15px;
-  text-align: center;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-  vertical-align: bottom;
-}
-.team-member .social a i,
-.team-member-detail .social a i {
-  vertical-align: bottom;
-  line-height: 26px;
-}
-.team-member .social a.facebook,
-.team-member-detail .social a.facebook {
-  background-color: #4460ae;
-}
-.team-member .social a.gplus,
-.team-member-detail .social a.gplus {
-  background-color: #c21f25;
-}
-.team-member .social a.twitter,
-.team-member-detail .social a.twitter {
-  background-color: #3cf;
-}
-.team-member .social a.instagram,
-.team-member-detail .social a.instagram {
-  background-color: #cd4378;
-}
-.team-member .social a.email,
-.team-member-detail .social a.email {
-  background-color: #fecd39;
-}
+
 .box-simple {
   text-align: center;
   margin-bottom: 40px;
@@ -1817,44 +1647,6 @@ fieldset[disabled] .btn-template-primary.active {
   background: #000;
   opacity: 0.3;
   filter: alpha(opacity=30);
-}
-.portfolio.no-space {
-  padding: 0 15px;
-}
-.portfolio.no-space .box-image {
-  margin: 0 -15px;
-}
-.portfolio-project .project-more h4 {
-  color: #555555;
-  text-transform: uppercase;
-  margin-bottom: 0;
-  text-align: left;
-  font-size: 14px;
-  letter-spacing: 0.08em;
-}
-.portfolio-project .project-more p {
-  color: #999999;
-  padding: 10px 0;
-  margin-bottom: 20px;
-  text-align: left;
-}
-.portfolio-showcase {
-  margin: 15px 0 60px;
-}
-.portfolio-showcase h3 a {
-  text-transform: uppercase;
-  line-height: 1.5;
-  letter-spacing: 0.08em;
-}
-.portfolio-showcase p.lead {
-  color: #555555;
-  margin-bottom: 20px;
-}
-.portfolio-showcase p {
-  color: #999999;
-}
-.portfolio-showcase p.buttons {
-  margin-top: 40px;
 }
 .see-more {
   text-align: center;
