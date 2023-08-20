@@ -22,9 +22,9 @@ La completezza della nostra gamma di servizi è sinonimo di serietà e avanguard
 
 - La PA.VE.SA. è applicatore fiduciario della MASTER BUILDER SOLUTION SPA: {{< blank "certificato" "https://drive.google.com/file/d/1GXa87AhOE2FXgT4SmnZbZUoJ5bfCjj8c/view?usp=sharing" >}}
 
-- PA.VE.SA. srl è un'azienda conforme alla normativa di gestione per la qualità ISO 9001:2015: {{< blank "certificato" "https://drive.google.com/file/d/1xsCec8WWYwpCBqrCgStD6PYJjMu33fF4/view?usp=sharing" >}}
+- PA.VE.SA. srl è un'azienda conforme alla normativa di gestione per la qualità ISO 9001:2015: {{< blank "certificato" "https://drive.google.com/file/d/1p6e15c3SCmJzdwixfIn_o9XDoDYJ4riO/view?usp=sharing" >}}
 
-- PA.VE.SA. srl possiede la certificazione per lavorare con gli enti pubblici: {{< blank "certificato" "https://drive.google.com/file/d/1t7v_ddAk2k71O06Jh0LUWT20WTh8m8HS/view?usp=sharing" >}}
+- PA.VE.SA. srl possiede la certificazione per lavorare con gli enti pubblici: {{< blank "certificato" "https://drive.google.com/file/d/11H88XQCzZuQ3CwnPL-HGOQ18H_UZNBvU/view?usp=sharing" >}}
 
 ---
 
