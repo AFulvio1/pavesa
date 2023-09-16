@@ -5,11 +5,9 @@
                 <div class="heading text-center">
                     <h2>{{ .Site.Params.providers.title | markdownify }}</h2>
                 </div>
-
                 <p class="lead">
                   {{ .Site.Params.providers.subtitle | markdownify }}
                 </p>
-
                 <ul class="owl-carousel providers">
                     {{ range .Site.Data.providers }}
                     <li class="item" title="{{ .name }}">
@@ -23,7 +21,6 @@
                     </li>
                     {{ end }}
                 </ul>
-                <!-- /.owl-carousel -->
             </div>
         </div>
     </div>
