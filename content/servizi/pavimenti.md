@@ -46,9 +46,15 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 
 ---
 
-### PAVIMENTO IN UCRETE - {{< blank "LEONARDO COMPANY" "https://www.leonardocompany.com/it/home" >}} - FOGGIA
+### {{< blank "LEONARDO COMPANY" "https://www.leonardocompany.com/it/home" >}} - FOGGIA (FG)
 
-> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/leonardo/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/leonardo/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/leonardo/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
+
+---
+
+### CANTINA - VENOSA (PZ)
+
+> {{< work-single img="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1694850017/lavori/pavimenti/ucrete/cantina/1.jpg" alt="pavimentazione-ucrete" >}}
 
 ---
 ---
@@ -61,7 +67,7 @@ Certiticato AgBB per le basse emissione sugli ambienti di lavori indoor, è resi
 
 ---
 
-### PAVIMENTO POLIURETANICO - CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO
+### CENTRO DI RIABILITAZIONE PADRE PIO ONLUS - SAN GIOVANNI ROTONDO (FG)
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620230/lavori/pavimenti/poliuretanico/dopo.jpg" altPrima="pavimentazione-poliuretano-prima" altDurante="pavimentazione-poliuretano-durante" altDopo="pavimentazione-poliuretano-dopo" >}}
 
@@ -78,9 +84,9 @@ Può essere impiegato nelle industrie meccaniche, industrie alimentari e struttu
 
 ---
 
-### PAVIMENTO IN RESINA - SAN SEVERO
+### PAVIMENTO IN RESINA - SAN SEVERO (FG)
 
-> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3_x43p2i.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1_po9yqm.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2_kv0hyj.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
+> {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
 
 ---
 ---
