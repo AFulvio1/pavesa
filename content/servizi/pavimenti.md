@@ -51,12 +51,6 @@ UCRETE UD200 presenta caratteristiche del tutto uniche quali:
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/leonardo/prima.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619764/lavori/pavimenti/ucrete/leonardo/durante.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619619763/lavori/pavimenti/ucrete/leonardo/dopo.jpg" altPrima="pavimentazione-ucrete-prima" altDurante="pavimentazione-ucrete-durante" altDopo="pavimentazione-ucrete-dopo" >}}
 
 ---
-
-### CANTINA - VENOSA (PZ)
-
-> {{< work-single img="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1694850017/lavori/pavimenti/ucrete/cantina/1.jpg" alt="pavimentazione-ucrete" >}}
-
----
 ---
 
 ## PAVIMENTO POLIURETANICO AUTOLIVELLANTE
@@ -87,6 +81,12 @@ Può essere impiegato nelle industrie meccaniche, industrie alimentari e struttu
 ### PAVIMENTO IN RESINA - SAN SEVERO (FG)
 
 > {{< work imgPrima="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/3.jpg" imgDurante="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/1.jpg" imgDopo="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1619620559/lavori/pavimenti/resina/2.jpg" altPrima="pavimentazione-resina-prima" altDurante="pavimentazione-resina-durante" altDopo="pavimentazione-resina-dopo" >}}
+
+---
+
+### PAVIMENTO MULTISTRATO - CANTINA - VENOSA (PZ)
+
+> {{< work-single img="https://res.cloudinary.com/afulvio/image/upload/w_auto/dpr_auto,c_scale/c_fill,q_auto,f_auto/v1694850017/lavori/pavimenti/ucrete/cantina/1.jpg" alt="pavimentazione-ucrete" >}}
 
 ---
 ---
