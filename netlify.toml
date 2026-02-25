@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --minify"
+  command = "bash build-prod.sh"
 
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"

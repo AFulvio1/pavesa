@@ -1,5 +1,7 @@
 # PA.VE.SA. s.r.l. - Sito Web Aziendale
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/317711a8-1c5c-4957-9d97-91f36513545d/deploy-status)](https://app.netlify.com/projects/pavesa/deploys)
+
 Sito web statico costruito con **Hugo**, un generatore di siti statici veloce e flessibile. Il progetto include un tema custom, contenuti multilingue e integrazione con Cloudinary per la gestione delle immagini.
 
 ## Componenti del Progetto
