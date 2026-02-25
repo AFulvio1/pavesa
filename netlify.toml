@@ -1,5 +1,9 @@
 [build]
   publish = "public"
+  command = "hugo --minify"
+
+[build.environment]
+  NODE_VERSION = "18"
 
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
