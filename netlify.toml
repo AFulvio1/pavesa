@@ -2,7 +2,6 @@
   publish = "public"
   command = "hugo --minify"
 
-# Plugin principale: sottomette sitemap ai motori di ricerca
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
@@ -10,13 +9,3 @@
     baseUrl = "https://www.pavesasrl.it"
     sitemapPath = "public/sitemap.xml"
     providers = ["google", "bing", "yandex"]
-
-# Disabilitare plugin incompatibili con Node.js 22+
-# Questi plugin sono stati aggiunti via UI di Netlify ma non supportano Node > 20
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
-  skip = true
-
-[[plugins]]
-  package = "netlify-plugin-chromium"
-  skip = true
