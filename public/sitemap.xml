@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/servizi/impermeabilizzazione-poliurea/</loc>
+    <loc>https://www.pavesasrl.it/servizi/impermeabilizzazione-poliurea/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/pavimenti/</loc>
+    <loc>https://www.pavesasrl.it/servizi/pavimenti/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/verniciatura/</loc>
+    <loc>https://www.pavesasrl.it/servizi/verniciatura/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/sabbiatura/</loc>
+    <loc>https://www.pavesasrl.it/servizi/sabbiatura/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/vetrificazione/</loc>
+    <loc>https://www.pavesasrl.it/servizi/vetrificazione/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/lavori-edili/</loc>
+    <loc>https://www.pavesasrl.it/servizi/lavori-edili/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/azienda/</loc>
+    <loc>https://www.pavesasrl.it/azienda/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contatti/</loc>
+    <loc>https://www.pavesasrl.it/contatti/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.pavesasrl.it/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://www.pavesasrl.it/privacy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/servizi/</loc>
+    <loc>https://www.pavesasrl.it/servizi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
