@@ -7,11 +7,11 @@
     "netlify-plugin-submit-sitemap": "^0.4.0"
   },
   "dependencies": {
-    "cloudinary": "^1.26.3",
-    "cloudinary-core": "^2.11.4",
-    "cloudinary-jquery-file-upload": "^2.11.4",
-    "jquery": "^3.6.0",
-    "lightbox2": "^2.11.3",
+    "cloudinary": "^2.9.0",
+    "cloudinary-core": "^2.14.1",
+    "cloudinary-jquery-file-upload": "^2.14.1",
+    "jquery": "^3.7.1",
+    "lightbox2": "^2.11.5",
     "nvm": "^0.0.4"
   }
 }
